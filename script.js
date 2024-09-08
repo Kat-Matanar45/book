@@ -11,3 +11,6 @@ document.body.style.backgroundImage = "url('image/library.jpg')";
 
 let title3 = document.querySelector('.title3');
 title3.textContent = 'Книга 3. this и Прототипы Объектов';
+
+let advertisement = document.querySelector('.adv');
+advertisement.remove();
